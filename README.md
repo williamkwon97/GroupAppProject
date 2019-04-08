@@ -1,8 +1,10 @@
 # GroupAppProject
 Group Project - README Template
 ===
+Group Project - README Template
+===
 
-# APP_NAME_HERE
+# ParkingShare
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -71,10 +73,6 @@ Search Location
 Search Price
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
 Login Screen
 => Home
 Registration Screen
